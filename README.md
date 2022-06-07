@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! ✌️</h1>
 
 <p align="center">
-<img src="./assets/Working.gif" width="418">
+<img src="./assets/Working.gif" width="418" height="230">
 </p>
 <div align="center">
 
