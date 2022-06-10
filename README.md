@@ -26,3 +26,12 @@ I started learning programming at the **1st November 2021** and at the time I di
 <img src="./assets/npm.svg" alt="npm" width="60"> <img src="./assets/figma.svg" alt="figma" width="40"> <img src="./assets/webpack.svg" alt="webpack" width="60"> <img src="./assets/node.svg" alt="nodejs" width="60">
 
 </div>
+
+## Education
+
+- Rolling Scopes School Stage **0** (_finished_)
+- Rolling Scopes School Stage **1** (_finished_)
+- Rolling Scopes School Stage **2** (_in progress_)
+- [Learn JavaScript](https://learn.javascript.ru/) (_in progress_)
+- [Udemy. The Complete JavaScript + React Course - From Zero to Result](https://www.udemy.com/course/javascript_full/) (_in progress_)
+- [MDN Frontend Course](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer) (_finished_)
