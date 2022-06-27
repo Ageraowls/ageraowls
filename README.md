@@ -35,4 +35,4 @@ I started learning programming on the **1st of November 2021** and at the time I
 - [Learn JavaScript](https://learn.javascript.ru/) (_in progress_)
 - [Udemy. The Complete JavaScript + React Course - From Zero to Result](https://www.udemy.com/course/javascript_full/) (_in progress_)
 - [MDN Frontend Course](https://developer.mozilla.org/ru/docs/Learn/Front-end_web_developer) (_finished_)
-- [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) (_in progress_)
+- [Build JavaScript applications using TypeScript](https://docs.microsoft.com/en-us/learn/paths/build-javascript-applications-typescript/) (_finished_)
